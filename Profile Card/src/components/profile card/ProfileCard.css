@@ -1,0 +1,56 @@
+.empcard{
+    box-shadow: 0 0 10px black;
+    border: solid black 2px;
+    display: flex;
+    width: 800px;
+    height: 340px;
+    margin: 50px auto;
+
+    
+}
+.image{
+    width: 35%;
+
+    
+}
+.details{
+    /* background-color: #fff;
+    color: black; */
+    width: 70%;
+    padding-left: 30px;
+    
+   
+}
+
+dt{
+    padding-top: 10px;
+}
+/* .details input{
+    margin: 10px 0;
+    
+} */
+
+.radio-buttons{
+    margin-top: 13px;
+    display: flex;
+    width: 170px;
+    justify-content: space-evenly;  
+}
+
+.checkbox{
+    margin-top: 20px;
+text-align: center;
+}
+
+/* Light Theme */
+/* .light {
+    background-color: #fff;
+    color: #333;
+  } */
+  
+  /* Dark Theme */
+  /* .dark {
+    background-color: #333;
+    color: #fff;
+  } */
+  
